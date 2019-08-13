@@ -38,10 +38,6 @@ A user is able to select different styles under the current product.  If that st
 ![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
 <br/>
 <br/>
-##### Helpful & Report Feature:<br/>
-![Alt Text](https://media.giphy.com/media/H4JHZjcrBKTGUPKw3C/giphy.gif)
-<br/>
-<br/>
 ##### Modals: <br/>
 ![Alt Text](https://media.giphy.com/media/J5LkWEGFZ3jvf9HM6H/giphy.gif)
 
