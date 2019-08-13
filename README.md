@@ -30,11 +30,11 @@ A user is able to select different styles under the current product.  If that st
 
 
 ## Questions & Answers
-"More Questions" & "More Answers" Feature: <br/>
+##### "More Questions" & "More Answers" Feature: <br/>
 ![](documentation/qa-more-questions-answers-feature.gif)
 <br/>
 <br/>
-"Search" Feature:<br/>
+##### "Search" Feature:<br/>
 ![](documentation/qa-search-feature.gif)
 
 
