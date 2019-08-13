@@ -19,16 +19,20 @@ Go to localhost:8866/?products=:product_id, where the product_id is the id of th
 
 
 ## About Question and Answers
-(More Question & More Answers Button) <br/>
+More Question & More Answers Feature: <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: <br/>
 ![Alt Text](https://media.giphy.com/media/J4mWNwB1RPzSdCULl2/giphy.gif)
-
-(Search Feature)<br/>
+<br/>
+Search Feature:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: <br/>
 ![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
-
-(Modals) <br/>
+<br/>
+Modals <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: <br/>
 ![Alt Text](https://media.giphy.com/media/J5LkWEGFZ3jvf9HM6H/giphy.gif)
-
-(Helpful & Report Buttons)<br/>
+<br/>
+:Helpful & Report Feature:<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Description: <br/>
 ![Alt Text](https://media.giphy.com/media/H4JHZjcrBKTGUPKw3C/giphy.gif)
 
 
