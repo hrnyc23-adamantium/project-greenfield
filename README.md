@@ -16,3 +16,21 @@ npm start
 Go to localhost:8866/?products=:product_id, where the product_id is the id of the product you would like to view.
 
 **Please note:** simply navigating to localhost:8866 will result in a 400 error. There is no homepage, there are only product pages.
+
+
+## About Question and Answers
+(More Question & More Answers Button)
+![Alt Text](https://media.giphy.com/media/J4mWNwB1RPzSdCULl2/giphy.gif)
+
+(Search Feature)
+![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
+
+(Modals)
+![Alt Text](https://media.giphy.com/media/J5LkWEGFZ3jvf9HM6H/giphy.gif)
+
+(Helpful & Report Buttons)
+![Alt Text](https://media.giphy.com/media/H4JHZjcrBKTGUPKw3C/giphy.gif)
+
+
+
+
