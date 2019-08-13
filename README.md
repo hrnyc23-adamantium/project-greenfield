@@ -1,8 +1,6 @@
 # project-greenfield
 
-### A high performant, React-Redux e-commerce storefront
-### Styled with Material-UI
-### Rendered server-side
+#### A high performant, React-Redux e-commerce storefront, styled with Material-UI, rendered server-side
 
 ## To build:
 ### For development:
