@@ -34,7 +34,7 @@ A user is able to select different styles under the current product.  If that st
 ![Alt Text](https://media.giphy.com/media/J4mWNwB1RPzSdCULl2/giphy.gif)
 <br/>
 <br/>
-##### Search Feature:<br/>
+##### "Search" Feature:<br/>
 ![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
 
 
