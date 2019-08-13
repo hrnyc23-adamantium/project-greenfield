@@ -23,7 +23,7 @@ app.use(express.static(path.join(__dirname, '../dist')));
 
 const handleRender = (req, res) => {
   let productId = parseInt(req.query.products);
-  if (productId !== undefined || !isNaN(productId)) {
+  if (productId !== undefined && !isNaN(productId)) {
     Axios.all([getProductInfo(productId), 
       getStyles(productId), 
       getQA(productId), 
@@ -54,7 +54,7 @@ const handleRender = (req, res) => {
       console.error(err);
       res.sendStatus(500)})
     } else {
-      res.sendStatus(404);
+      res.sendStatus(400);
     }
 };
 
