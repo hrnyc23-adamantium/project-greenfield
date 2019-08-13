@@ -18,20 +18,20 @@ Go to localhost:8866/?products=:product_id, where the product_id is the id of th
 **Please note:** simply navigating to localhost:8866 will result in a 400 error. There is no homepage, there are only product pages.
 
 
-## About Question and Answers
-More Question & More Answers Feature: <br/>
+### About Question and Answers
+##### More Question & More Answers Feature: <br/>
 ![Alt Text](https://media.giphy.com/media/J4mWNwB1RPzSdCULl2/giphy.gif)
 <br/>
 <br/>
-Search Feature:<br/>
+##### Search Feature:<br/>
 ![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
 <br/>
 <br/>
-Helpful & Report Feature:<br/>
+##### Helpful & Report Feature:<br/>
 ![Alt Text](https://media.giphy.com/media/H4JHZjcrBKTGUPKw3C/giphy.gif)
 <br/>
 <br/>
-Modals: <br/>
+##### Modals: <br/>
 ![Alt Text](https://media.giphy.com/media/J5LkWEGFZ3jvf9HM6H/giphy.gif)
 
 
