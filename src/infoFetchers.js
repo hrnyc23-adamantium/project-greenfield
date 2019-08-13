@@ -1,4 +1,4 @@
-const apiUrl = "http://18.222.40.124";
+const apiUrl = "http://13.58.161.60";
 const Axios = require("axios");
 
 module.exports = {
