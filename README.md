@@ -1,5 +1,9 @@
 # project-greenfield
 
+## A high performant, React-Redux e-commerce storefront
+### Styled with Material-UI
+### Rendered server-side
+
 ## To build:
 ### For development:
 npm run dev_build
