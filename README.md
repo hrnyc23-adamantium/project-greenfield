@@ -27,7 +27,17 @@ A user is able to select different styles under the current product.  If that st
 
 ![](documentation/productoverviewSale.gif)
 
+## Related Products
 
+Users can view the headline information and thumbnail photo of various related products; compare the characteristics of the current product to any related product; and navigate to related product pages.
+
+![](documentation/related.gif)
+
+## Outfits
+
+Users can add the current product to their outfits and can remove any items from their outfits in the outfits widget. Outfits persist for the user across sessions.
+
+![](documentation/outfits.gif)
 
 ## Questions & Answers
 ![](documentation/qa-more.gif)
