@@ -36,7 +36,7 @@ A user is able to select different styles under the current product.  If that st
 ![](documentation/qa-search.gif)
 <br/>
 <br/>
-![](documentation/qa-modal.gif)
+![](documentation/qa-modals.gif)
 
 
 
