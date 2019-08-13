@@ -17,15 +17,15 @@ Go to localhost:8866/?products=:product_id, where the product_id is the id of th
 
 
 ## About Question and Answers
-##### More Question & More Answers Feature: <br/>
+##### "More Questions" & "More Answers" Feature: <br/>
 ![Alt Text](https://media.giphy.com/media/J4mWNwB1RPzSdCULl2/giphy.gif)
 <br/>
 <br/>
-##### Search Feature:<br/>
+##### "Search" Feature:<br/>
 ![Alt Text](https://media.giphy.com/media/eIsNos72KHaXyp9wPz/giphy.gif)
 <br/>
 <br/>
-##### Helpful & Report Feature:<br/>
+##### "Helpful" & "Report" Feature:<br/>
 ![Alt Text](https://media.giphy.com/media/H4JHZjcrBKTGUPKw3C/giphy.gif)
 <br/>
 <br/>
