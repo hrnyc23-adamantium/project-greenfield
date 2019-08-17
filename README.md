@@ -48,9 +48,7 @@ Users can add the current product to their outfits and can remove any items from
 <br/>
 <br/>
 ![](documentation/qa-search.gif)
-<br/>
-<br/>
-![](documentation/qa-modals.gif)
+
 
 
 
