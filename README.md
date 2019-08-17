@@ -48,9 +48,6 @@ Go to **localhost:8866/?products=:product_id**, where the product_id is the id o
 
 ![](documentation/qa-more.gif)
 
-<br/>
-<br/>
-
 * Users can search for questions and filter out just to the specific question/questions they are looking for. 
 
 ![](documentation/qa-search.gif)
