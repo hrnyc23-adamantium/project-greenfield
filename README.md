@@ -44,9 +44,11 @@ Users can add the current product to their outfits and can remove any items from
 ![](documentation/outfits.gif)
 
 ## Questions & Answers
+Users can render, both, more questions and answers on click, then collapse the page whenever needed.
 ![](documentation/qa-more.gif)
 <br/>
 <br/>
+Users can search for questions and filter out just to the specific question/questions they are looking for.
 ![](documentation/qa-search.gif)
 
 
