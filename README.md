@@ -19,7 +19,7 @@ npm start
 ## To view:
 Go to **localhost:8866/?products=:product_id**, where the product_id is the id of the product you would like to view.
 
-**Please note:** simply navigating to localhost:8866 will result in a 400 error. There is no homepage, there are only product pages.
+**Please note:** simply navigating to **localhost:8866** will result in a 400 error. There is no homepage, there are only product pages.
 
 ## Product Overview
 
@@ -47,7 +47,7 @@ Go to **localhost:8866/?products=:product_id**, where the product_id is the id o
 * Users can render, both, more questions and answers on click, then collapse the page whenever needed.
 
 ![](documentation/qa-more.gif)
-
+<br/>
 * Users can search for questions and filter out just to the specific question/questions they are looking for. 
 
 ![](documentation/qa-search.gif)
