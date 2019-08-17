@@ -44,16 +44,16 @@ Go to **localhost:8866/?products=:product_id**, where the product_id is the id o
 ![](documentation/outfits.gif)
 
 ## Questions & Answers
-* Users can render, both, more questions and answers on click, then collapse the page whenever needed. 
+* Users can render, both, more questions and answers on click, then collapse the page whenever needed and users can search for questions and filter out just the specific question/questions they are looking for. 
 
 <br/>
 
 ![](documentation/qa-more.gif)
 
 <br/>
-<br/>
 
-* Users can search for questions and filter out just to the specific question/questions they are looking for. 
+
+
 ![](documentation/qa-search.gif)
 
 
