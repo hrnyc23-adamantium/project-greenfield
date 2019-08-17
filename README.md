@@ -44,7 +44,7 @@ Go to **localhost:8866/?products=:product_id**, where the product_id is the id o
 ![](documentation/outfits.gif)
 
 ## Questions & Answers
-* Users can render, both, more questions and answers on click, then collapse the page whenever needed. <br/>
+* Users can render, both, more questions and answers on click, then collapse the page whenever needed. 
 ![](documentation/qa-more.gif)
 
 <br/>
