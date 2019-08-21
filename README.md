@@ -59,5 +59,22 @@ Go to **localhost:8866/?products=:product_id**, where the product_id is the id o
 
 ## Reviews
 
+* Average review and characteristic ratings are displayed in this section alongside the reviews.
+* A user can report a review. Reported reviews will not show up on future page loads.
+* A user can mark a review as helpful once per session.
+
+![](documentation/reviews-helpful.gif)
+
+* Clicking "More Reviews" will fetch additional reviews and render them onto the page.
+
+![](documentation/reviews-more.gif)
+
+* Reviews can be sorted by relevance, helpfulness or newest.
+
+![](documentation/reviews-sort.gif)
+
+* Users can post new reviews, provided they fill in all required data.
+
+![](documentation/reviews-post.gif)
 
 
